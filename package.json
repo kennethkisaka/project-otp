@@ -1,0 +1,19 @@
+{
+  "name": "project-otp",
+  "version": "1.0.0",
+  "description": "This is a project done as per a given assignment. The assignment was to develop a two-factor authentication system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "app index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethkisaka/project-otp.git"
+  },
+  "author": "Kenneth Kisaka, Assad Muftah, Yash Netin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethkisaka/project-otp/issues"
+  },
+  "homepage": "https://github.com/kennethkisaka/project-otp#readme"
+}
